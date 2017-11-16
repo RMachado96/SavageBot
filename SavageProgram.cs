@@ -34,7 +34,7 @@ namespace DspBot
                 DiscordBranch = Branch.Stable,
                 LargeThreshold = 250,
                 LogLevel = LogLevel.Info,
-                Token = "MzM1MDg3ODgyNTM0Mzg3NzEy.DElJDw.RSeek-v_OL9Q0DEsJuvMMpixMv8",
+                Token = "",
                 TokenType = TokenType.Bot,
                 UseInternalLogHandler = false
 
